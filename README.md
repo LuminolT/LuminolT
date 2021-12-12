@@ -1,16 +1,16 @@
-### Hi there 👋
+## Greetings! 😃
 
-<!--
-**LuminolT/LuminolT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in Shanghai University.
 
-Here are some ideas to get you started:
+🛠 Major in Cyberspace Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Research interest: Cryptography, Blockchain.
+
+👉 [Blog](https://luminolt.cn/) (Lang: CN)
+
+👇 Status
+
+[![LuminolT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuminolT&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuminolT&layout=compact&theme=algolia&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+
