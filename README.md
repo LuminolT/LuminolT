@@ -14,5 +14,5 @@ I'm a student in Shanghai University.
 
 [![LuminolT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminolt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuminolT&layout=compact&theme=algolia&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuminolT&layout=compact&theme=algolia&hide=tex,Cmake,Batchfile,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
