@@ -4,7 +4,7 @@ I'm a student in Shanghai University.
 
 🛠 Major in Cyberspace Security.
 
-🔎 Research interest: Cryptography, Blockchain.
+🔎 Research interest: Modern Cryptography, Privacy-preserved Computation (MPC, PPML and PPFL)
 
 👉 [Blog](https://luminolt.cn/) (Lang: CN)
 
