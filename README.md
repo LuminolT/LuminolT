@@ -1,18 +1,20 @@
-## Greetings! 😃
+## Hi, I'm LuminolT 😃
 
-I'm a student in Shanghai University.
+<a href="https://github.com/LuminolT?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=LuminolT&show_icons=true&theme=algolia" />
+</a>
 
-🛠 Major in Cyberspace Security.
+- 📚 Major in Cyberspace Security at Shanghai University (SHU)
 
-🔎 Research interest: Modern Cryptography, Privacy-preserved Computation (MPC, PPML and PPFL)
+- 🕺 Member of [Cake1salie](https://github.com/shu-cake1salie), a CTF Team of SHU
 
-👉 [Blog](https://luminolt.cn/) (Lang: CN)
+- 🔎 Research interest
+  - Applied Cryptography
+  - Privacy-preserved Computation
+  - Trusted Execution Environment
+ 
+- 📚 Learning about RISC-V
 
-👇 Status
+<code>[Homepage](https://luminolt.cn)</code> <code>[Zhihu](https://www.zhihu.com/people/nai-te-61)</code> <code>[Posts](https://luminolt.cn/post/)</code>
 
-[![LuminolT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuminolT&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![LuminolT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuminolT)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuminolT&layout=compact&theme=algolia&hide=tex,Cmake,Batchfile,Jupyter%20Notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,go,linux,docker,kubernetes,cmake,vscode,git,mysql,postman,markdown)](https://skillicons.dev)
