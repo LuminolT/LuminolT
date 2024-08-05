@@ -4,9 +4,7 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=LuminolT&show_icons=true&theme=algolia" />
 </a>
 
-- 📚 Major in Cyberspace Security at Shanghai University (SHU)
-
-- 🕺 Member of [Cake1salie](https://github.com/shu-cake1salie), a CTF Team of SHU
+- 📚 M.E student of Electronic Information (Cyberspace Security) at Shanghai Jiao Tong University (SJTU)
 
 - 🔎 Research interest
   - Applied Cryptography
