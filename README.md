@@ -4,11 +4,11 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=LuminolT&show_icons=true&theme=algolia" />
 </a>
 
-- 📚 M.E student of Electronic Information (Cyberspace Security) at Shanghai Jiao Tong University (SJTU)
+- 📚 M.E student of Electronic Information at Shanghai Jiao Tong University (SJTU)
 
 - 🔎 Research interest
-  - Applied Cryptography
-  - Privacy-preserved Computation
+  - Secure Computer Architecture
+  - Cryptographic Hardware Design
   - Trusted Execution Environment
  
 - 📚 Learning about RISC-V
