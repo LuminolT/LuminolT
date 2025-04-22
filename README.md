@@ -17,4 +17,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,go,linux,docker,kubernetes,cmake,vscode,git,mysql,postman,markdown)](https://skillicons.dev)
 
 - 💪 I am currently studying Maimai DX — a large-scale arcade rhythm game that fundamentally operates as a human finger-joint endurance test, artfully combined with music, sensory light pollution, and the subtle art of social awkwardness.
--  This is my current status -> ![Luminolt](https://dxrating.luoling.moe/api/genImage/luminolt)
+-  This is my current DX rating -> ![Luminolt](https://dxrating.luoling.moe/api/genImage/luminolt)
